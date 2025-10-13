@@ -1,4 +1,4 @@
-# Sweta Sinha — Predictive Analytics Portfolio
+Predictive Analytics Portfolio
 
 Welcome! 👋  
 This repository showcases my work in predictive analytics, data visualization, and AI-driven insights using **Google Analytics 4**, **BigQuery (SQL)**, **Python**, and **Looker Studio**.
