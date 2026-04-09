@@ -13,5 +13,5 @@ This repository showcases my work in predictive analytics, data visualization, a
 - GA4 | BigQuery | Python | Looker Studio | SQL  
 - ChatGPT + Gemini AI for insights  
 
-📫 **Contact:** sweta.sinha.state@gmail.com  
-🔗 **LinkedIn:** [sweta-certifiedpm](https://linkedin.com/in/sweta-certifiedpm)
+📫 **Contact:** connect@sweta-aipowered.com
+
